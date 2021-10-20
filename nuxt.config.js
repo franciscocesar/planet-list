@@ -39,7 +39,7 @@ export default {
   modules: ['@nuxtjs/axios'
   ],
   axios:{
-    baseURL:'http://localhost:3333'
+    baseURL:'https://api-solar-system.herokuapp.com'
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build

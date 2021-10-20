@@ -1,12 +1,12 @@
 <template>
-  <Saturno />
+  <Netuno />
 </template>
 <script lang="ts">
 import Vue from "vue";
-import {saturno} from '@/store'
+import { netuno } from "@/store";
 export default Vue.extend({
   async asyncData() {
-    await saturno.index();
+    await netuno.index();
   },
 });
 </script>
