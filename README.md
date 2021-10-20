@@ -4,8 +4,8 @@ Projeto para mostrar informações de todos os planetas do sistema solar, feito 
 
 ## Primeira Versão
 
-![alt text](https://imgur.com/NPAHUFr)
-![alt text](https://imgur.com/htfldOH)
+![alt text](https://i.imgur.com/htfldOH.png)
+![alt text](https://i.imgur.com/OdupuaD.png)
 
 
 
