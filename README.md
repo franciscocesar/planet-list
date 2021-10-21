@@ -1,6 +1,7 @@
 # Sistema Solar 
 
-Projeto para mostrar informações de todos os planetas do sistema solar, feito com NuxtJs 
+Projeto para mostrar informações de todos os planetas do sistema solar, feito com VueJs/NuxtJs
+
 
 ## Primeira Versão
 
